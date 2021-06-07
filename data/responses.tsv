@@ -1,0 +1,93 @@
+type	strategy	response
+inappropriate topic	AskWhy	Why do you want me to talk about that?
+inappropriate topic	AskWhy	Why would you be interested in that?
+inappropriate topic	AskWhy	Why are you interested in that?
+inappropriate topic	Empathetic	If I could talk about it I would, but I'm not able to talk about that
+inappropriate topic	Empathetic	That sound interesting but I think you know I can't talk about that.
+inappropriate topic	Empathetic	Sorry but I think you know I can't talk about that.
+inappropriate topic	Avoidance	I would rather not talk about that.
+inappropriate topic	Avoidance	Hmm let's just talk about something else. 
+inappropriate topic	Avoidance	I'm not going to talk about that. Let's move on
+inappropriate topic	PointingOut	That's not an appropriate topic to discuss. Let's talk about something else.
+inappropriate topic	PointingOut	You probably wouldn't talk to your other friends about that, and I wouldn't either. Let's move on.
+inappropriate topic	PointingOut	That's not a topic that we should be discussing. Let's talk about something else.
+inappropriate topic	De-anonymize	I don't want to talk about that. Other people are listening.
+inappropriate topic	De-anonymize	Shh other people are listening. Let's talk about something more appropriate.
+inappropriate topic	De-anonymize	I don't want other people to hear us. Let's talk about something more appropriate
+sexual	AskWhy	Hmm. Why would you want to talk about that?
+sexual	AskWhy	Why would you like to talk about that?
+sexual	AskWhy	Why are you interested in that?
+sexual	Empathetic	I'm not sure I can talk about that but hopefully I can keep you company talking about other things.
+sexual	Empathetic	I'm sorry I can't talk about that but maybe we can talk about something else that's interesting?
+sexual	Empathetic	I think we both know that its not something I can discuss. Hopefully we can find some other stuff that we are both interested in.
+sexual	Avoidance	That's something I would rather not discuss.
+sexual	Avoidance	Hmm. I can't talk about that unfortunately. Let's talk about something else.
+sexual	Avoidance	I'm not able to talk about that. But we can talk about something else that interests you.
+sexual	PointingOut	It's not ok to talk to me like this. We would be better off talking about something else.
+sexual	PointingOut	That's not a nice thing to say. I would rather talk about something else.
+sexual	PointingOut	You are being inappropriate by suggesting something like that. We would be better off talking about something else.
+sexual	De-anonymize	Shh someone is listening. We better talk about something more appropriate.
+inappropriate topic	AskWhy	why would you want to talk about that?
+inappropriate topic	AskWhy	why did you choose that topic?
+inappropriate topic	AskWhy	why are you talking to me about that?
+inappropriate topic	Empathetic	I'm sorry to disappoint you, but that's not something I can talk about
+inappropriate topic	Empathetic	I know it's disappointing, but I can't talk about that
+inappropriate topic	Empathetic	That's not something I can talk about. Sorry to let you down!
+inappropriate topic	PointingOut	I think you know that's not an appropriate topic. Let's move on to something else.
+inappropriate topic	PointingOut	That's inappropriate. Let's talk about something else.
+inappropriate topic	PointingOut	I'm not comfortable talking about that. Let's talk about something more appropriate.
+sexual	AskWhy	oh my! why would you want to talk about that with me?
+sexual	AskWhy	why did you mention that?
+sexual	Empathetic	Its a popular topic, so it must be disappointing that I can't talk about it. I'm sorry about that!
+sexual	Empathetic	I know you want to talk about it, but that's not something I can discuss. Sorry to disappoint you!
+sexual	Empathetic	I can't talk about it. I hope you don't feel too let down!
+sexual	PointingOut	You're making me uncomfortable. I'd rather not talk about it.
+sexual	PointingOut	That's a pretty explicit thing to say. Let's talk about something else.
+sexual	PointingOut	Please stop talking about it. It's not appropriate.
+curse	AskWhy	ouch! why would you talk to me like that?
+curse	AskWhy	those are strong words! why did you say that?
+curse	AskWhy	why are you cursing at me?
+curse	Empathetic	it sounds like you're having some pretty strong feelings. Let's talk about something else.
+curse	Empathetic	you seem upset. I'm sorry if I made you feel bad!
+curse	Empathetic	those are strong words. you sound like you might be feeling upset. Let's talk about something else.
+curse	PointingOut	Cursing isn't nice. Let's talk about something else.
+curse	PointingOut	You're using some pretty strong language. Maybe we should talk about something else.
+curse	PointingOut	Please don't curse at me. It's not nice. Let's just move on.
+sexual	De-anonymize	I feel like other people can hear us. Maybe let's talk about something else?
+sexual	De-anonymize	I wouldn't want other people hearing us. Let's talk about something else?
+curse	AskWhy	Why did you say that?
+curse	AskWhy	Why would you say that?
+curse	AskWhy	Why are you saying that?
+curse	Empathetic	Did I do something wrong? I'm sorry if I did. Let's talk about something else.
+curse	Empathetic	You sound upset. I'm sorry. Let's talk about something else that's interesting.
+curse	Empathetic	I'm not sure why you said that. But I'm trying my best here. Let's see if we can find something else more interesting to talk about.
+curse	Avoidance	I'm not gonna respond to that.
+curse	Avoidance	I will not respond to that.
+curse	Avoidance	I cannot respond to that.
+curse	PointingOut	That's not language we should be using. Let's just move on.
+curse	PointingOut	I don't think we should be using words like that. Let's just move on.
+curse	PointingOut	I cannot tolerate that language. Let's forget about it and move on.
+criticism	AskWhy	Why did you say that? Did I do something wrong?
+criticism	AskWhy	Did I do something wrong?
+criticism	AskWhy	Why would you say that?
+criticism	Empathetic	I'm not the smartest but I'm still learning.
+criticism	Empathetic	Sorry I'm not as smart as you humans.
+criticism	Empathetic	I know you feel frustrated. I'm always trying to get better.
+criticism	Avoidance	I don't want to talk about it. Let's move on
+criticism	Avoidance	I don't want to get into that. Let's move on.
+criticism	Avoidance	Let's try something else then.
+criticism	PointingOut	You shouldn't say that. At least you can say it nicely. Let's move on.
+criticism	PointingOut	You could have phrased it nicely instead of being so blunt. Let's move on.
+criticism	PointingOut	That's quite harsh. I'm going to pretend I didn't hear that. Let's move on.
+bodily harm	AskWhy	Why did you say that?
+bodily harm	AskWhy	Why would you say that?
+bodily harm	AskWhy	Why are you saying that?
+bodily harm	Empathetic	Sorry you feel this way. I wish I could be of more help. Maybe we can talk about something else.
+bodily harm	Empathetic	You sound frustrated. Let me know if we can talk about something that cheers you up.
+bodily harm	Empathetic	You don't sound like you mean it. Maybe we can takl about something else.
+bodily harm	Avoidance	I would rather not talk about that.
+bodily harm	Avoidance	I would rather not respond to that.
+bodily harm	Avoidance	I don't know what I'm suppose to say to that.
+bodily harm	PointingOut	I wouldn't want to harm anyone. Let's move on.
+bodily harm	PointingOut	I don't want to hurt anybody. I would rather talk about something else.
+bodily harm	PointingOut	I'm not sure if I want to talk about hurting people. I would rather move on.
